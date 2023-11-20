@@ -1,0 +1,752 @@
+[
+    {
+        "Subject": "Physics",
+        "Questions": [
+            {
+                "Question" : "What is the speed of the light?",
+                "Subject" : "Physics",
+                "Topic" : "Waves",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "The dimension of which of the following is the same as that of impulse?",
+                "Subject" : "Physics",
+                "Topic" : "Momentum",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Which among the following is the fundamental quantity?",
+                "Subject" : "Physics",
+                "Topic" : "Momentum",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "What is the minimum escape velocity of rocket to be launched in to space?",
+                "Subject" : "Physics",
+                "Topic" : "Velocity",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Which set of conditions represents the easiest way to liquify a Gases?",
+                "Subject" : "Physics",
+                "Topic" : "Temperature",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "The instrument that measures and records the relative humidity air is",
+                "Subject" : "Physics",
+                "Topic" : "Fraction",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Mist is caused by?",
+                "Subject" : "Physics",
+                "Topic" : "Gases",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "While catching a ball, a player pulls down his hands to lower the ? ",
+                "Subject" : "Physics",
+                "Topic" : "Elasticity",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Clear nights are colder than cloudy nights because of",
+                "Subject" : "Physics",
+                "Topic" : "Spectrum",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "In which of the following cases, kinetic energy is being used in performing work?",
+                "Subject" : "Physics",
+                "Topic" : "Work and energy",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "If the velocity ? time graph of a particle is represented by   y = mt + c, then the particle is moving with",
+                "Subject" : "Physics",
+                "Topic" : "Vector",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "A passenger standing in a bus is thrown outward when the bus takes a sudden turn. This happens due to",
+                "Subject" : "Physics",
+                "Topic" : "Momentum",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "When pressure is increased, the melting point of ice",
+                "Subject" : "Physics",
+                "Topic" : "Gases",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Where are mesons found?",
+                "Subject" : "Physics",
+                "Topic" : "Waves",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "For a body moving with non-uniform velocity and uniform acceleration",
+                "Subject" : "Physics",
+                "Topic" : "Velocity",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "The fourth state of matter is known as ",
+                "Subject" : "Physics",
+                "Topic" : "Matter",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Knot is a measure of",
+                "Subject" : "Physics",
+                "Topic" : "Waves",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Which of the following pairs of physical quantities have the same dimensions?",
+                "Subject" : "Physics",
+                "Topic" : "Vector",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "The instrument for measuring intensity of earthquake is called",
+                "Subject" : "Physics",
+                "Topic" : "Waves",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Pycnometer is an instrument used to measure the",
+                "Subject" : "Physics",
+                "Topic" : "Waves",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Who defined the law of gravitation?",
+                "Subject" : "Physics",
+                "Topic" : "Gravitation",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "The sensation of weightlessness in a spacecraft in an orbit is due to the",
+                "Subject" : "Physics",
+                "Topic" : "Weight",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "Therm is the unit of",
+                "Subject" : "Physics",
+                "Topic" : "Temperature",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "Newton's first law of motion gives the concept of",
+                "Subject" : "Physics",
+                "Topic" : "Gravitation",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "We always see the same face of the moon, because",
+                "Subject" : "Physics",
+                "Topic" : "Spectrum",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "Which of the following instruments is used to measure humidity?",
+                "Subject" : "Physics",
+                "Topic" : "Temperature",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "Which of the following is most elastic?",
+                "Subject" : "Physics",
+                "Topic" : "Elasticity",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "The swing of a spinning cricket ball in air can be explained on the basis of",
+                "Subject" : "Physics",
+                "Topic" : "Elasticity",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "What should a person on a freely rotating turn table do to decrease his (angular) speed?",
+                "Subject" : "Physics",
+                "Topic" : "Velocity",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "Smog is a combination of",
+                "Subject" : "Physics",
+                "Topic" : "Gases",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "A boy sitting in an open car moving with the constant speed throws a ball straight up into the air. The ball falls",
+                "Subject" : "Physics",
+                "Topic" : "Elasticity",
+                "Difficulty" : "Hard",
+                "Marks" : 20
+            },
+            {
+                "Question" : "A kilowatt-hour is unit of",
+                "Subject" : "Physics",
+                "Topic" : "Power",
+                "Difficulty" : "Hard",
+                "Marks" : 20
+            },
+            {
+                "Question" : "Ventilators are provided near the ceiling of the room because",
+                "Subject" : "Physics",
+                "Topic" : "Gases",
+                "Difficulty" : "Hard",
+                "Marks" : 20
+            },
+            {
+                "Question" : "In severe winter, in cold countries water pipes burst because",
+                "Subject" : "Physics",
+                "Topic" : "Waves",
+                "Difficulty" : "Hard",
+                "Marks" : 20
+            },
+            {
+                "Question" : "The density of a gas is maximum at",
+                "Subject" : "Physics",
+                "Topic" : "Gases",
+                "Difficulty" : "Hard",
+                "Marks" : 20
+            }
+        ]
+    },
+    {
+        "Subject": "Chemistry",
+        "Questions": [
+            {
+                "Question" : "What happens when a chemical bond is formed?",
+                "Subject" : "Chemistry",
+                "Topic" : "Waves",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "All the four quantum numbers of two electrons in an Atoms are not the same.? It is the law of ? ",
+                "Subject" : "Chemistry",
+                "Topic" : "Quantums",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "The Atomsic number of carbon is 6 and its Atomsic mass is 12. How many protons are there in the nucleus of carbon?",
+                "Subject" : "Chemistry",
+                "Topic" : "Atomsic Number",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "The Nucleus of an Atoms consists of",
+                "Subject" : "Chemistry",
+                "Topic" : "Atoms",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Isobars are lines joining places having equal",
+                "Subject" : "Chemistry",
+                "Topic" : "Atomsic Number",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "What is the element that is in the highest percentage in the composition of the earth?",
+                "Subject" : "Chemistry",
+                "Topic" : "Periodic Table",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Mist is caused by?",
+                "Subject" : "Chemistry",
+                "Topic" : "Gases",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Milk is a natural",
+                "Subject" : "Chemistry",
+                "Topic" : "Carbohydrates",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Sea water can be purified by the process of",
+                "Subject" : "Chemistry",
+                "Topic" : "Evaporation",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "The residue left after extracting juice from sugar-beet and sugarcane is called",
+                "Subject" : "Chemistry",
+                "Topic" : "Carbohydrates",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "The process of removing calcium and magnesium from hard water is known as",
+                "Subject" : "Chemistry",
+                "Topic" : "Molecules",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "The national Chemical Laboratory (India) is located in",
+                "Subject" : "Chemistry",
+                "Topic" : "Bonds",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Which of the following is not a nucleon?",
+                "Subject" : "Chemistry",
+                "Topic" : "Atoms",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "What particles move around the nucleus of an atom and are negatively charged?",
+                "Subject" : "Chemistry",
+                "Topic" : "Atoms",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "For a body moving with non-uniform velocity and uniform acceleration",
+                "Subject" : "Chemistry",
+                "Topic" : "Velocity",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "The number of neutrons present in an element having mass number 226 and atomic number 88 is",
+                "Subject" : "Chemistry",
+                "Topic" : "Atomic Number",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "An atom of an element has atomic number 17 and mass number 36. The number of neutrons in its nucleus is",
+                "Subject" : "Chemistry",
+                "Topic" : "Atoms",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Which of the following pairs of physical quantities have the same dimensions?",
+                "Subject" : "Chemistry",
+                "Topic" : "Vector",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Select the one which is not a mixture",
+                "Subject" : "Chemistry",
+                "Topic" : "Mixture",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "The total energy of revolving electron in an atom",
+                "Subject" : "Chemistry",
+                "Topic" : "Atoms",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Conduction band electrons have more mobility than holes because they",
+                "Subject" : "Chemistry",
+                "Topic" : "Atoms",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "The mass number of a nucleus is",
+                "Subject" : "Chemistry",
+                "Topic" : "Atoms",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "The chemical behaviour of an atom depends upon",
+                "Subject" : "Chemistry",
+                "Topic" : "Atoms",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "The electronic configuration of an atom having atomic number ?20? is",
+                "Subject" : "Chemistry",
+                "Topic" : "Atomic Number",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "A mixture of water and alcohol can be separated by",
+                "Subject" : "Chemistry",
+                "Topic" : "Mixture",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "The orientation of an atomic orbital is governed by",
+                "Subject" : "Chemistry",
+                "Topic" : "Atoms",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "Rutherford's scattering experiment proved the presence of?",
+                "Subject" : "Chemistry",
+                "Topic" : "Atomic Number",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "A colloidal system in which a liquid is dispersed in a liquid is called",
+                "Subject" : "Chemistry",
+                "Topic" : "Liquid",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "Which one of the following has greatest mass?",
+                "Subject" : "Chemistry",
+                "Topic" : "Periodic Table",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "Heavy water is so called because it contains",
+                "Subject" : "Chemistry",
+                "Topic" : "Liquid",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "The nuclear particle having no mass and no charge, but only spin is",
+                "Subject" : "Chemistry",
+                "Topic" : "Atoms",
+                "Difficulty" : "Hard",
+                "Marks" : 20
+            },
+            {
+                "Question" : "Ionisation energy of nitrogen is greater than that of oxygen because nitrogen has",
+                "Subject" : "Chemistry",
+                "Topic" : "Waves",
+                "Difficulty" : "Hard",
+                "Marks" : 20
+            },
+            {
+                "Question" : "In a period from Li to F, ionisation potential",
+                "Subject" : "Chemistry",
+                "Topic" : "Periodic Table",
+                "Difficulty" : "Hard",
+                "Marks" : 20
+            },
+            {
+                "Question" : "Atomic theory of matter was given by",
+                "Subject" : "Chemistry",
+                "Topic" : "Matter",
+                "Difficulty" : "Hard",
+                "Marks" : 20
+            },
+            {
+                "Question" : "Which of the following is the maximum number of electrons that can be present in M-shell?",
+                "Subject" : "Chemistry",
+                "Topic" : "Periodic Table",
+                "Difficulty" : "Hard",
+                "Marks" : 20
+            }
+        ]
+    },
+    {
+        "Subject": "Maths",
+        "Questions": [
+            {
+                "Question" : "What is trigonometry",
+                "Subject" : "Maths",
+                "Topic" : "Trigonometry",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Forumula of Sinx",
+                "Subject" : "Maths",
+                "Topic" : "Trigonometry",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "What is sieve of Erastothenes",
+                "Subject" : "Maths",
+                "Topic" : "Numbers",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "What is the formula of Perpendicular theroam",
+                "Subject" : "Maths",
+                "Topic" : "Mensuration",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "What is the formula of SP",
+                "Subject" : "Maths",
+                "Topic" : "Profit and loss",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "The instrument that measures and records the relative humidity air is",
+                "Subject" : "Maths",
+                "Topic" : "Fraction",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Mist is caused by?",
+                "Subject" : "Maths",
+                "Topic" : "Gases",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "While catching a ball, a player pulls down his hands to lower the ? ",
+                "Subject" : "Maths",
+                "Topic" : "Elasticity",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Clear nights are colder than cloudy nights because of",
+                "Subject" : "Maths",
+                "Topic" : "Spectrum",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "In which of the following cases, kinetic energy is being used in performing work?",
+                "Subject" : "Maths",
+                "Topic" : "Work and energy",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "If the velocity ? time graph of a particle is represented by   y = mt + c, then the particle is moving with",
+                "Subject" : "Maths",
+                "Topic" : "Vector",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "A passenger standing in a bus is thrown outward when the bus takes a sudden turn. This happens due to",
+                "Subject" : "Maths",
+                "Topic" : "Momentum",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "When pressure is increased, the melting point of ice",
+                "Subject" : "Maths",
+                "Topic" : "Gases",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Where are mesons found?",
+                "Subject" : "Maths",
+                "Topic" : "Waves",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "For a body moving with non-uniform velocity and uniform acceleration",
+                "Subject" : "Maths",
+                "Topic" : "Velocity",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "The fourth state of matter is known as ",
+                "Subject" : "Maths",
+                "Topic" : "Matter",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Knot is a measure of",
+                "Subject" : "Maths",
+                "Topic" : "Waves",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Which of the following pairs of physical quantities have the same dimensions?",
+                "Subject" : "Maths",
+                "Topic" : "Vector",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "The instrument for measuring intensity of earthquake is called",
+                "Subject" : "Maths",
+                "Topic" : "Waves",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "Pycnometer is an instrument used to measure the",
+                "Subject" : "Maths",
+                "Topic" : "Waves",
+                "Difficulty" : "Easy",
+                "Marks" : 5
+            },
+            {
+                "Question" : "What is parabola",
+                "Subject" : "Maths",
+                "Topic" : "Curves",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "What is hyperbola",
+                "Subject" : "Maths",
+                "Topic" : "Curves",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "What is y in the equation y^2 = 4ac",
+                "Subject" : "Maths",
+                "Topic" : "Curves",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "Newton's first law of motion gives the concept of",
+                "Subject" : "Maths",
+                "Topic" : "Gravitation",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "We always see the same face of the moon, because",
+                "Subject" : "Maths",
+                "Topic" : "Spectrum",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "Which of the following instruments is used to measure humidity?",
+                "Subject" : "Maths",
+                "Topic" : "Temperature",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "Which of the following is most elastic?",
+                "Subject" : "Maths",
+                "Topic" : "Elasticity",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "What is the speed of the light",
+                "Subject" : "Maths",
+                "Topic" : "Waves",
+                "Difficulty" : "Medium",
+                "Marks" : 2
+            },
+            {
+                "Question" : "What is the speed of the light",
+                "Subject" : "Maths",
+                "Topic" : "Waves",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "What is the speed of the light",
+                "Subject" : "Maths",
+                "Topic" : "Waves",
+                "Difficulty" : "Medium",
+                "Marks" : 10
+            },
+            {
+                "Question" : "What is Logarithm",
+                "Subject" : "Maths",
+                "Topic" : "Logramithic",
+                "Difficulty" : "Hard",
+                "Marks" : 20
+            },
+            {
+                "Question" : "What is elimination method",
+                "Subject" : "Maths",
+                "Topic" : "Numbers",
+                "Difficulty" : "Hard",
+                "Marks" : 20
+            },
+            {
+                "Question" : "What is substitution method",
+                "Subject" : "Maths",
+                "Topic" : "Numbers",
+                "Difficulty" : "Hard",
+                "Marks" : 20
+            },
+            {
+                "Question" : "What is Eclipse curve",
+                "Subject" : "Maths",
+                "Topic" : "curves",
+                "Difficulty" : "Hard",
+                "Marks" : 20
+            },
+            {
+                "Question" : "What is the formula of sinxcosx",
+                "Subject" : "Maths",
+                "Topic" : "Trigonometry",
+                "Difficulty" : "Hard",
+                "Marks" : 20
+            }
+        ]
+    }
+]
