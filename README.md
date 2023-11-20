@@ -11,3 +11,8 @@ Steps to run the application in your device-
 6. At last, go to http://localhost:5500/ to view the application.
 
 Ater entering the values, click submit to see the array of objects(questions list) on the console based on the marks and difficulty levels you had given.
+
+Output Screenshots - 
+
+![Screenshot (9)](https://github.com/maydkdkjd/Question-Paper-Generator/assets/90491725/cee73fee-3ddd-42ee-a37a-b0981fd92687)
+![Screenshot (8)](https://github.com/maydkdkjd/Question-Paper-Generator/assets/90491725/38c74cb6-c03d-4053-b545-232540f95199)
