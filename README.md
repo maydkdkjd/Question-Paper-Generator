@@ -14,6 +14,7 @@ Ater entering the values, click submit to see the array of objects(questions lis
 
 Output Screenshots - 
 
-![Screenshot (9)](https://github.com/maydkdkjd/Question-Paper-Generator/assets/90491725/8e7103d8-1629-4a09-b0a7-9f426a78a5c7)
+
 ![Screenshot (8)](https://github.com/maydkdkjd/Question-Paper-Generator/assets/90491725/f597ecb9-c29e-4763-b050-015171106bdd)
+![Screenshot (9)](https://github.com/maydkdkjd/Question-Paper-Generator/assets/90491725/8e7103d8-1629-4a09-b0a7-9f426a78a5c7)
 
