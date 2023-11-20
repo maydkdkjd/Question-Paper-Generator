@@ -4,7 +4,7 @@ It is developed using HTML, Javascript, Node.js and Express.js. HTML has beed us
 
 Steps to run the application in your device-
 1. Install the Node.js in your device. Here is the link to download - https://nodejs.org/en/download
-2. Now, copy the folder in any drive and open it with any IDE, I recommend Visual Studio Code.
+2. Now, download the Question Paper Generator folder in your device and open it with any IDE, I recommend Visual Studio Code.
 3. After opening, hit ctrl + `(Backtics) to open the terminal or you can open it from the navigation bar itself.
 4. Run the command "npm install" in the terminal to install the node modules and its dependencies.
 5. Run the command "npm run dev" to start the application.
